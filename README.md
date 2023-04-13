@@ -1,5 +1,4 @@
-# Conditional Entropy Calculator: 
-## calculate conditional entropy for a label given a set of features
+# Conditional Entropy Calculator
 
 This repository contains a Python script to calculate the conditional entropy of a binary label given a list of selected features from a CSV file. The script reads data
 from a CSV file named data.csv, extracts the label data from column M+1, and selects the desired features based on the selected_features list. Then, it computes the
