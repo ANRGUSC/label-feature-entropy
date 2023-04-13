@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 def conditional_entropy(y, *features):
-   """
+    """
     Calculate the conditional entropy H(Y|X1, X2, ..., Xn) for a binary label Y 
     given values of n feature variables X1, X2, ..., Xn.
 
