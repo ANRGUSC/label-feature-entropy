@@ -25,3 +25,6 @@ f1,f2,f3,f4,label
 17,18,19,20,0
 
 And you want to compute the conditional entropy of the label given the first, second, and fourth features (f1, f2, f4). Update the selected_features list in the script to [0, 1, 3] and run the script. The output will be the conditional entropy H(Label|f1, f2, f4).
+
+## Caveat
+This code has been generated using ChatGPT (GPT-4 model). It hasn't been carefully vetted yet. 
